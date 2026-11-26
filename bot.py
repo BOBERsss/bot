@@ -1,5 +1,6 @@
 """Точка входу: приймає команди й кнопки та передає їх у handlers."""
 
+
 import random
 
 import telebot
